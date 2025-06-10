@@ -10,7 +10,7 @@ const Footer = () => {
               <Icon name="Scale" className="h-8 w-8 text-amber-600 mr-3" />
               <div>
                 <h3 className="text-xl font-bold font-montserrat">
-                  Адвокат Тарабанов И.О.
+                  Адвокат Тарабаров И.О.
                 </h3>
                 <p className="text-gray-400 text-sm">Юридические услуги</p>
               </div>
@@ -56,7 +56,7 @@ const Footer = () => {
 
         <div className="border-t border-slate-700 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 Адвокат Тарабанов И.О. Все права защищены.
+            © 2024 Адвокат Тарабаров И.О. Все права защищены.
           </p>
         </div>
       </div>

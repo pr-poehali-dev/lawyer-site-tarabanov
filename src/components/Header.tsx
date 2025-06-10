@@ -20,7 +20,7 @@ const Header = () => {
             <Icon name="Scale" className="h-8 w-8 text-amber-600 mr-3" />
             <div>
               <h1 className="text-xl font-bold font-montserrat text-slate-800">
-                Адвокат Тарабанов И.О.
+                Адвокат Тарабаров И.О.
               </h1>
               <p className="text-sm text-gray-600">Юридические услуги</p>
             </div>

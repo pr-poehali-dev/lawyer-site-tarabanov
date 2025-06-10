@@ -13,7 +13,7 @@ const Hero = () => {
 
           <h1 className="text-4xl md:text-6xl font-bold font-montserrat mb-4">
             Адвокат
-            <span className="block text-amber-400">Тарабанов И.О.</span>
+            <span className="block text-amber-400">Тарабаров И.О.</span>
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
